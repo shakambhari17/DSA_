@@ -26,4 +26,8 @@
 |  |
 | ------- |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/shakambhari17/DSA_/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/shakambhari17/DSA_/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
