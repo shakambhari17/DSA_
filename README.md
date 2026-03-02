@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shakambhari17/DSA_/tree/master/0001-two-sum) |
+| [0189-rotate-array](https://github.com/shakambhari17/DSA_/tree/master/0189-rotate-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/shakambhari17/DSA_/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Hash Table
 |  |
@@ -30,6 +31,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/shakambhari17/DSA_/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/shakambhari17/DSA_/tree/master/0189-rotate-array) |
 ## Linked List
 |  |
 | ------- |
@@ -39,4 +41,8 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/shakambhari17/DSA_/tree/master/0021-merge-two-sorted-lists) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/shakambhari17/DSA_/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
