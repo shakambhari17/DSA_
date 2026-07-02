@@ -1,8 +1,7 @@
-class Solution(object):
-
+class Solution:
     def searchBST(self, root, val):
 
-        if not root:
+        if root is None:
             return None
 
         if root.val == val:
