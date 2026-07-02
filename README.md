@@ -16,6 +16,7 @@
 | [0056-merge-intervals](https://github.com/shakambhari17/DSA_/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/shakambhari17/DSA_/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/shakambhari17/DSA_/tree/master/0073-set-matrix-zeroes) |
+| [0078-subsets](https://github.com/shakambhari17/DSA_/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/shakambhari17/DSA_/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shakambhari17/DSA_/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/shakambhari17/DSA_/tree/master/0128-longest-consecutive-sequence) |
@@ -84,6 +85,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/shakambhari17/DSA_/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/shakambhari17/DSA_/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/shakambhari17/DSA_/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/shakambhari17/DSA_/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/shakambhari17/DSA_/tree/master/0268-missing-number) |
@@ -261,6 +263,7 @@
 | ------- |
 | [0039-combination-sum](https://github.com/shakambhari17/DSA_/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/shakambhari17/DSA_/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/shakambhari17/DSA_/tree/master/0078-subsets) |
 ## Tree
 |  |
 | ------- |
