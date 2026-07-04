@@ -232,6 +232,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/shakambhari17/DSA_/tree/master/0347-top-k-frequent-elements) |
+| [0743-network-delay-time](https://github.com/shakambhari17/DSA_/tree/master/0743-network-delay-time) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -291,6 +292,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/shakambhari17/DSA_/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/shakambhari17/DSA_/tree/master/0112-path-sum) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shakambhari17/DSA_/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0743-network-delay-time](https://github.com/shakambhari17/DSA_/tree/master/0743-network-delay-time) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/shakambhari17/DSA_/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/shakambhari17/DSA_/tree/master/0938-range-sum-of-bst) |
 ## Binary Tree
@@ -320,6 +322,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/shakambhari17/DSA_/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/shakambhari17/DSA_/tree/master/0112-path-sum) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shakambhari17/DSA_/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0743-network-delay-time](https://github.com/shakambhari17/DSA_/tree/master/0743-network-delay-time) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/shakambhari17/DSA_/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Search Tree
 |  |
@@ -338,4 +341,12 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/shakambhari17/DSA_/tree/master/0455-assign-cookies) |
+## Graph Theory
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/shakambhari17/DSA_/tree/master/0743-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/shakambhari17/DSA_/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
